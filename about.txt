@@ -1,0 +1,13 @@
+1. Getting the original image
+
+2. Getting the masked image of lungs
+
+3. Getting the segmented image of lungs
+
+4. Getting the roi of lungs by combining masked and segmented image
+
+5. Applying Gausion Blurr in the roi
+
+5. Applying edge detetion in roi
+
+6. Applying contours in edges
